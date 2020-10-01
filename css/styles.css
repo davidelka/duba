@@ -1,0 +1,14 @@
+.main-head{
+  color: blue;
+  margin: auto;
+  width: 30%;
+}
+
+
+.table{
+  margin: auto;
+  width: 50%;
+  border: 3px solidgreen;
+  padding: 10px;
+
+}
